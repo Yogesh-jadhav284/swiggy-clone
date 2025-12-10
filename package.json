@@ -1,0 +1,22 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is jurney of learning REACT",
+  "main": "App.js",
+  "scripts": {
+    "test": "JEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogesh-jadhav284/My-First-Project.git"
+  },
+  "keywords": [
+    "REACT"
+  ],
+  "author": "yOGESH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogesh-jadhav284/My-First-Project/issues"
+  },
+  "homepage": "https://github.com/Yogesh-jadhav284/My-First-Project#readme"
+}
