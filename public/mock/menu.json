@@ -1,0 +1,74 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "10820",
+              "name": "California Burrito",
+              "city": "Bangalore",
+              "areaName": "Koramangala",
+              "avgRating": 4.6,
+              "costForTwoMessage": "₹400 for two",
+              "cuisines": [
+                "Mexican",
+                "Burritos",
+                "Fast Food"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "101",
+                              "name": "Chicken Burrito",
+                              "price": 29900,
+                              "description": "Grilled chicken with rice and beans."
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "102",
+                              "name": "Veg Burrito",
+                              "price": 24900,
+                              "description": "Fresh vegetables with Mexican spices."
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "103",
+                              "name": "Paneer Burrito",
+                              "price": 26900,
+                              "description": "Paneer with spicy Mexican sauce."
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

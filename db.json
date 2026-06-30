@@ -1,0 +1,55 @@
+{
+  "restaurants": [
+    {
+      "id": "229",
+      "name": "Meghana Foods",
+      "avgRating": 4.4,
+      "costForTwoMessage": "₹500 for two",
+      "cuisines": ["Biryani", "North Indian", "Chinese"]
+    },
+    {
+      "id": "230",
+      "name": "KFC",
+      "avgRating": 4.3,
+      "costForTwoMessage": "₹400 for two",
+      "cuisines": ["Burger", "Fast Food"]
+    }
+  ],
+  "menus": [
+    {
+      "restaurantId": "229",
+      "items": [
+        {
+          "id": "1",
+          "name": "Chicken Biryani",
+          "price": 350
+        },
+        {
+          "id": "2",
+          "name": "Paneer Butter Masala",
+          "price": 280
+        },
+        {
+          "id": "3",
+          "name": "Butter Naan",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "restaurantId": "230",
+      "items": [
+        {
+          "id": "4",
+          "name": "Zinger Burger",
+          "price": 199
+        },
+        {
+          "id": "5",
+          "name": "French Fries",
+          "price": 129
+        }
+      ]
+    }
+  ]
+}
